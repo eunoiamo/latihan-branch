@@ -1,3 +1,3 @@
 # Latihan branch pada github
 
-*seru !!!*
+*belajar seru kokk*
